@@ -1,4 +1,5 @@
 blueprint for project
+
 What has been done
 
 * Accommodation of components inside project done
